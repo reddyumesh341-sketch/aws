@@ -1,0 +1,2 @@
+# aws
+soi git repository
